@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7125.771efd18.chunk.js","mappings":"sIAOA,UAJuB,WACnB,OAAO,6CACX,C","sources":["views/demo/SingleMenuView.js"],"sourcesContent":["import React from 'react'\r\n\r\n/** Example purpose only */\r\nconst SingleMenuView = () => {\r\n    return <div>Single Menu View</div>\r\n}\r\n\r\nexport default SingleMenuView\r\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,10 @@
+{
+  "name": "build",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "build"
+    }
+  }
+}
